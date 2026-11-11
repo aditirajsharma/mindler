@@ -1,3 +1,4 @@
+🌐 Live Website: https://mindler.netlify.app
 # MindWell – AI-Powered Mental Wellness & Yoga Companion
 
 **MindWell** is a modern, responsive, production-quality mental health and somatic yoga companion website built with React, TypeScript, Tailwind CSS, Framer Motion, Recharts, and Lucide Icons under a custom **Dark Neon Purple** design system.
